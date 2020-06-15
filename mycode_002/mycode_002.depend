@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1556099738 source:d:\hk182dkbknam2hk2\a_datastructures_and_algorithm\assignment\assignment_002\mycode_002\main.cpp
+	<fstream>
+	<iostream>
+	<string>
+	<cctype>
+	"MapSet.h"
+
+1556173011 d:\hk182dkbknam2hk2\a_datastructures_and_algorithm\assignment\assignment_002\mycode_002\mapset.h
+	"AVLNode.h"
+
+1552754965 d:\hk182dkbknam2hk2\a_datastructures_and_algorithm\assignment\assignment_002\mycode_002\avlnode.h
+	<iostream>
+	"DynamicArray.h"
+
+1553416046 d:\hk182dkbknam2hk2\a_datastructures_and_algorithm\assignment\assignment_002\mycode_002\dynamicarray.h
+	<stdio.h>
+	<string.h>
+	<iostream>
+	<iomanip>
+
+1556173370 source:d:\hk182dkbknam2hk2\a_datastructures_and_algorithm\assignment\assignment_002\mycode_002\mapset.cpp
+	"MapSet.h"
+

@@ -1,0 +1,5 @@
+If we have a piece of code to analyse with our word counter, 
+how do we make it reach the getWordCount function? In later 
+revisions of the program we will fetch code from a file, end 
+even from multiple files, but for the moment lets go for the 
+simplest solution possible: putting the input right into code.
